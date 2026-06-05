@@ -1,0 +1,43 @@
+{
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer’s Peerless Regression",
+  "alternative_title": "Yongdosaui Muganghan Hoegwi",
+  "status": "Ongoing",
+  "author": "Yumir",
+  "artist": "Kim Pyung-beom",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": "9.2",
+  "synopsis": "Kezia, sang pembantai naga terakhir, mati dalam pertempuran epik melawan penguasa naga. Namun, alih-alih menuju akhirat, ia kembali ke masa lalunya saat masih menjadi kadet muda. Dengan pengetahuan masa depan dan teknik pembantai naga yang belum sempurna, ia bertekad untuk mencegah kehancuran umat manusia.",
+  "cover_url": "https://raw.githubusercontent.com/username/repo-name/main/assets/covers/dragonslayer-cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": "01",
+      "chapter_title": "The End and The Beginning",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/01/001.jpg",
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/01/002.jpg",
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/01/003.jpg",
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/01/004.jpg",
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/01/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": "02",
+      "chapter_title": "Second Chance",
+      "images": [
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/02/001.jpg",
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/02/002.jpg",
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/02/003.jpg",
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/02/004.jpg",
+        "https://raw.githubusercontent.com/username/repo-name/main/assets/manga/dragonslayer/02/005.jpg"
+      ]
+    }
+  ]
+}
